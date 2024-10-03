@@ -6,10 +6,6 @@ My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificia
 
 [![Facebook]() CangNgo](https://www.facebook.com/cang.ngo.948?mibextid=kFxxJD)
 
-<a href="https://github.com/CangNgo/ftt-new-members-be">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CangNgo&repo=ftt-new-members-be&theme=radical" />
-</a>    
 <a href="https://github.com/CangNgo/Tiktok">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CangNgo&repo=Tiktok&theme=merko" />
 </a>
