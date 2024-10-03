@@ -4,7 +4,7 @@ My name is Cang Ngô. I am a software development major. I am interested in java
 
 ## 📫 How to reach me:
 
-[![Facebook]() CangNgo](https://www.facebook.com/cang.ngo.948?mibextid=kFxxJD)
+[![Facebook]() CangNgo](https://www.facebook.com/cang.ngo.948?mibextid=kFxxJD) 
 
 ![Cang ngô Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CangNgo&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
