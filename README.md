@@ -14,14 +14,14 @@ My name is Cang Ngô. I am a software development major. I am interested in java
 </a>
 
 <a href="https://github.com/CangNgo/datastructureAndAlgorithms">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CangNgo&repo=datastructureAndAlgorithms&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CangNgo&repo=datastructureAndAlgorithms&theme=merko" />
 </a>
 
 <a href="https://github.com/CangNgo/LohaStore">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CangNgo&repo=LohaStore&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CangNgo&repo=LohaStore&theme=merko" />
 </a>
 
 <a href="https://github.com/CangNgo/library-management-system">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CangNgo&repo=library-management-system&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CangNgo&repo=library-management-system&theme=merko" />
 </a>
 
