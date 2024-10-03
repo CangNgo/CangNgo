@@ -10,7 +10,7 @@ My name is Cang Ngô. I am a software development major. I am interested in java
 
 
 <a href="https://github.com/CangNgo/Tiktok">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CangNgo&repo=Tiktok&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CangNgo&repo=Tiktok&theme=transparent " />
 </a>
 
 <a href="https://github.com/CangNgo/datastructureAndAlgorithms">
