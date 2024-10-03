@@ -6,6 +6,9 @@ My name is Cang Ngô. I am a software development major. I am interested in java
 
 [![Facebook]() CangNgo](https://www.facebook.com/cang.ngo.948?mibextid=kFxxJD)
 
+![Cang ngô Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CangNgo&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
+
 <a href="https://github.com/CangNgo/Tiktok">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CangNgo&repo=Tiktok&theme=merko" />
 </a>
