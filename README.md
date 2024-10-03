@@ -1,6 +1,6 @@
 ### WELCOME TO MY PAGE 👋👋👋
 
-My name is Cang Ngô.I am a software development major. I am interested in java technology, data structures and algorithms.<br>
+My name is Cang Ngô. I am a software development major. I am interested in java technology, data structures and algorithms.<br>
 
 ## 📫 How to reach me:
 
