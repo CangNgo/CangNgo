@@ -14,7 +14,7 @@ My name is Cang Ngô. I am a software development major. I am interested in java
 </a>
 
 <a href="https://github.com/CangNgo/KingOfShoes_FE">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CangNgo&repo=KingOfShose&theme=shades-of-purple" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CangNgo&repo=KingOfShose_FE&theme=shades-of-purple" />
 </a>
 
 <a href="https://github.com/CangNgo/LohaStore_thymeleafAndSpring/tree/develop">
@@ -22,6 +22,6 @@ My name is Cang Ngô. I am a software development major. I am interested in java
 </a>
 
 <a href="https://github.com/CangNgo/LohaStore">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CangNgo&repo=LohaStoreJSP&theme=shades-of-purple" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CangNgo&repo=LohaStore&theme=shades-of-purple" />
 </a>
 
